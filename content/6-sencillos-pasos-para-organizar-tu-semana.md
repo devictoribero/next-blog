@@ -1,6 +1,6 @@
 ---
 meta_title: 6 sencillos pasos para organizar tu semana
-meta_descripcion: Aprende cuánto afecta a tu equilibrio mental y estado de ánimo una mala preparación de las distintas tareas de nuestra vida.
+meta_descripcion: ¿Eres de los que te falta tiempo para conseguir tus objetivos u objetivos? ¡Ahora ya no! Con estos 6 pasos sencillos consigue el tiempo que necesitas durante la semana
 img_src: https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2017/02/34013677_l.jpg
 date: 2019-03-13
 page: post
@@ -12,23 +12,23 @@ paths:
 
 Desde siempre, cómo gestionar nuestro tiempo ha sido una tarea pendiente por falta de motivación, vagancia, conformismo, inexistencia de metas y pensar que disponemos de una infinidad de tiempo.
 
-A medida que pasan los días conozco más gente que pone la excusa de no tener tiempo para hacer sus actividades. ¿Eres de las personas que usa esa excusa? ¿Te engañas a ti mismo? ¿No vas al gimnasio porque llegas cansado del trabajo? ¿No haces vida social entre semana porque madrugas al día siguiente?
+A medida que pasan los días conozco más gente que pone la excusa de no tener tiempo para hacer sus actividades. *¿Eres de las personas que usa esa excusa? ¿Te engañas a ti mismo? ¿No vas al gimnasio porque llegas cansado del trabajo? ¿No haces vida social entre semana porque madrugas al día siguiente?*
 
-Es muy importante que seamos honestos con nosotros mismos y hagamos introspección acerca de nuestra vida, como por ejemplo pensar fríamente en que queremos invertir nuestro tiempo y en que no. — Personalmente, tengo miedo de hacerme mayor y arrepentirme de todos los momentos que pude haber aprovechado y que no lo hice porque estaba ocupado con el móvil u otras cosas que realmente no dan valor a mí vida. ¿Qué tan importante para nuestro desarrollo personal es pasar varias horas al día en las redes sociales? ¿Qué nos aporta estar consumiendo contenido televisivo la mayor parte de nuestro tiempo libre?
+Es muy importante que seamos honestos con nosotros mismos y hagamos introspección acerca de nuestra vida, como por ejemplo pensar fríamente en que queremos invertir nuestro tiempo y en que no. *— Personalmente, tengo miedo de hacerme mayor y arrepentirme de todos los momentos que pude haber aprovechado y que no lo hice porque estaba ocupado con el móvil u otras cosas que realmente no dan valor a mí vida.* ¿Qué tan importante para nuestro desarrollo personal es pasar varias horas al día en las redes sociales? ¿Qué nos aporta estar consumiendo contenido televisivo la mayor parte de nuestro tiempo libre?
 
 > Gracias a la planificación semanal podremos conseguir de manera sencilla un ritmo de vida equilibrado y eso, se traduce en equilibrio mental que deriva en paz interior en la mayoría de los casos.
 
 En los últimos 2 años he probado distintos métodos para gestionarme el tiempo que tengo disponible para realizar las tareas. Desde el tablero Kanban hasta el método Getting Things Done (GTD) pasando por el método de la caja de Eisenhower y la técnica Pomodoro. Todos ellos son métodos muy válidos que nos ayudan en mayor o menor medida dependiendo de las necesidades que tenemos pero, para llegar a este punto, primero tenemos que saber cuando y cuanto tiempo tenemos disponible.
 
-Con tal de localizar el tiempo del que disponemos a lo largo de una semana para poder cumplir nuestras tareas u objetivos, yo os recomiendo seguir estos sencillos 6 pasos.
+Con tal de localizar el tiempo del que disponemos a lo largo de una semana para poder cumplir nuestras tareas u objetivos, yo os *recomiendo seguir estos sencillos 6 pasos.*
 
 
-1. Asignar las horas de trabajo.
-2. Pensar en el número de horas que queremos dormir.
-3. Diseñar una rutina matutina que nos ayude durante el día.
-4. Hacer un ritual antes de acostarnos que nos proporcione tranquilidad.
-5. Priorizar nuestras obligaciones.
-6. Planificar la actividad física.
+1. **Asignar las horas de trabajo.**
+2. Pensar en el número de **horas que queremos dormir.**
+3. **Diseñar una rutina matutina** que nos ayude durante el día.
+4. Hacer un **ritual antes de acostarnos** que nos proporcione tranquilidad.
+5. **Priorizar nuestras obligaciones.**
+6. **Planificar la actividad física.**
 
 Con estos pasos podremos ver cuanto tiempo disponible tenemos a lo largo de la semana para gestionarlo como creamos conveniente.
 
@@ -44,7 +44,7 @@ Dependiendo del sector en el que trabajes y de lo permisible que sea tu empresa,
 
 ## 2- Pensar en el número de horas que queremos dormir
 
-Una vez realizado el paso anterior, sabrás a que hora tienes que empezar a trabajar. Así pues, piensa en cuántas horas quieres dormir y asígnalas a tu horario (para poder optimizar tu sueño deberías saber acerca de tus ciclos de sueño).
+Una vez realizado el paso anterior, sabrás a que hora tienes que empezar a trabajar. Así pues, piensa en cuántas horas quieres dormir y asígnalas a tu horario *(para poder optimizar tu sueño deberías saber acerca de tus ciclos de sueño).*
 
 Dependiendo de cual sea tu rutina y cuanto ejercicio mental y físico hagas a lo largo del día, necesitarás más o menos horas de descanso. En mi caso, con 7 horas y media tengo más que suficiente.
 
