@@ -1,9 +1,8 @@
 ---
 meta_title: 6 sencillos pasos para organizar tu semana
 meta_descripcion: Aprende cuánto afecta a tu equilibrio mental y estado de ánimo una mala preparación de las distintas tareas de nuestra vida.
-img_src_small: https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/Pursuit-happiness-Hugs-smell-fresh-bread-survey-poll-Laura-Holland-754663.jpg,
-img_src_medium: https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/Pursuit-happiness-Hugs-smell-fresh-bread-survey-poll-Laura-Holland-754663.jpg,
-date: 2019-02-27
+img_src: https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2017/02/34013677_l.jpg
+date: 2019-03-13
 page: post
 paths:
   - /custom-post
