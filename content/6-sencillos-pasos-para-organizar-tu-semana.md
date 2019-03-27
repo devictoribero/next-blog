@@ -14,13 +14,13 @@ Desde siempre, cómo gestionar nuestro tiempo ha sido una tarea pendiente por fa
 
 A medida que pasan los días conozco más gente que pone la excusa de no tener tiempo para hacer sus actividades. *¿Eres de las personas que usa esa excusa? ¿Te engañas a ti mismo? ¿No vas al gimnasio porque llegas cansado del trabajo? ¿No haces vida social entre semana porque madrugas al día siguiente?*
 
-Es muy importante que seamos honestos con nosotros mismos y hagamos introspección acerca de nuestra vida, como por ejemplo pensar fríamente en que queremos invertir nuestro tiempo y en que no. *— Personalmente, tengo miedo de hacerme mayor y arrepentirme de todos los momentos que pude haber aprovechado y que no lo hice porque estaba ocupado con el móvil u otras cosas que realmente no dan valor a mí vida.* ¿Qué tan importante para nuestro desarrollo personal es pasar varias horas al día en las redes sociales? ¿Qué nos aporta estar consumiendo contenido televisivo la mayor parte de nuestro tiempo libre?
+Es muy importante que seamos honestos con nosotros mismos y hagamos introspección acerca de nuestra vida, como por ejemplo pensar fríamente en que queremos invertir nuestro tiempo y en que no. *— Personalmente, [tengo miedo de hacerme mayor y arrepentirme](https://www.elrincondevictor.com/pensar-en-voz-alta) de todos los momentos que pude haber aprovechado y que no lo hice porque estaba ocupado con el móvil u otras cosas que realmente no dan valor a mí vida.* ¿Qué tan importante para nuestro desarrollo personal es pasar varias horas al día en las redes sociales? ¿Qué nos aporta estar consumiendo contenido televisivo la mayor parte de nuestro tiempo libre?
 
 > Gracias a la planificación semanal podremos conseguir de manera sencilla un ritmo de vida equilibrado y eso, se traduce en equilibrio mental que deriva en paz interior en la mayoría de los casos.
 
-En los últimos 2 años he probado distintos métodos para gestionarme el tiempo que tengo disponible para realizar las tareas. Desde el tablero Kanban hasta el método Getting Things Done (GTD) pasando por el método de la caja de Eisenhower y la técnica Pomodoro. Todos ellos son métodos muy válidos que nos ayudan en mayor o menor medida dependiendo de las necesidades que tenemos pero, para llegar a este punto, primero tenemos que saber cuando y cuanto tiempo tenemos disponible.
+En los últimos 2 años he probado distintos métodos para gestionarme el tiempo que tengo disponible para realizar las tareas. Desde el [tablero Kanban](https://kanbanize.com/es/recursos-de-kanban/primeros-pasos/que-es-tablero-kanban/) hasta el [método Getting Things Done (GTD)](https://jordisanchez.info/que-es-gtd/) pasando por el [método de la caja de Eisenhower](https://www.entrepreneur.com/article/267004) y la [técnica Pomodoro](https://blogthinkbig.com/como-usar-la-tecnica-pomodoro). Todos ellos son métodos muy válidos que nos ayudan en mayor o menor medida dependiendo de las necesidades que tenemos pero, para llegar a este punto, primero tenemos que saber cuando y cuanto tiempo tenemos disponible.
 
-Con tal de localizar el tiempo del que disponemos a lo largo de una semana para poder cumplir nuestras tareas u objetivos, yo os *recomiendo seguir estos sencillos 6 pasos.*
+Con tal de localizar el tiempo del que disponemos a lo largo de una semana para poder [cumplir nuestras tareas u objetivos](https://www.elrincondevictor.com/planifica-tus-metas-para-tener-un-equilibrio-mental), yo os *recomiendo seguir estos sencillos 6 pasos.*
 
 
 1. **Asignar las horas de trabajo.**
@@ -44,7 +44,7 @@ Dependiendo del sector en el que trabajes y de lo permisible que sea tu empresa,
 
 ## 2- Pensar en el número de horas que queremos dormir
 
-Una vez realizado el paso anterior, sabrás a que hora tienes que empezar a trabajar. Así pues, piensa en cuántas horas quieres dormir y asígnalas a tu horario *(para poder optimizar tu sueño deberías saber acerca de tus ciclos de sueño).*
+Una vez realizado el paso anterior, sabrás a que hora tienes que empezar a trabajar. Así pues, piensa en cuántas horas quieres dormir y asígnalas a tu horario *(para poder optimizar tu sueño deberías saber acerca de tus [ciclos de sueño](http://muysaludable.sanitas.es/salud/fases-ciclos-sueno/)).*
 
 Dependiendo de cual sea tu rutina y cuanto ejercicio mental y físico hagas a lo largo del día, necesitarás más o menos horas de descanso. En mi caso, con 7 horas y media tengo más que suficiente.
 
@@ -56,9 +56,9 @@ Ahora toca pensar que rutina queremos cada mañana. Dependiendo de cuantas cosas
 
 Dos de las cosas que yo necesito para ser persona cuando me levanto, son la meditación y una ducha de agua fría porque me llenan de energía y motivación.
 
-Yo no tengo en cuenta el desayuno porque hago ayuno intermitente o tomo un bocadillo pequeño mientras trabajo. Dentro de mi planificación matutina le dedico de 30 a 40 minutos a la lectura mientras me desplazo hacia el trabajo.
+Yo no tengo en cuenta el desayuno porque hago [ayuno intermitente](https://www.dietdoctor.com/es/ayuno-intermitente) o tomo un bocadillo pequeño mientras trabajo. Dentro de mi planificación matutina le dedico de 30 a 40 minutos a la lectura mientras me desplazo hacia el trabajo.
 
-> Dado el conocido ‘efecto compuesto’, 30 minutos es tiempo suficiente para ver a largo plazo una diferencia abismal en una actividad como es en este caso, la lectura.
+> Dado el conocido [‘efecto compuesto’](https://www.elclubdeinversion.com/el-efecto-compuesto/), 30 minutos es tiempo suficiente para ver a largo plazo una diferencia abismal en una actividad como es en este caso, la lectura.
 
 --- img
 
