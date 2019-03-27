@@ -1,9 +1,6 @@
 ---
 meta_title: 4 tipos de tareas que hemos de planificar para un equilibrio mental
 meta_descripcion: Aprende cuánto afecta a tu equilibrio mental y estado de ánimo una mala preparación de las distintas tareas de nuestra vida.
-
-preview_title: 4 tipos de tareas que hemos de planificar para un equilibrio mental
-preview_descripcion: Aprende cuánto afecta a tu equilibrio mental y estado de ánimo una mala preparación de las distintas tareas de nuestra vida.
 img_src_small: https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/Pursuit-happiness-Hugs-smell-fresh-bread-survey-poll-Laura-Holland-754663.jpg,
 img_src_medium: https://cdn.images.express.co.uk/img/dynamic/130/590x/secondary/Pursuit-happiness-Hugs-smell-fresh-bread-survey-poll-Laura-Holland-754663.jpg,
 date: 2019-02-27

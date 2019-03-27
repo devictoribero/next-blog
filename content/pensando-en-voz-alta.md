@@ -1,9 +1,6 @@
 ---
 meta_title: Voy a pensar en voz alta ¿Te apuntas?
 meta_descripcion: Pensando en voz alta ¿Por qué no soy feliz aunque me dedique a lo que me gusta?
-
-preview_title: Voy a pensar en voz alta ¿Te apuntas?
-preview_descripcion: Pensando en voz alta ¿Por qué no soy feliz aunque me dedique a lo que me gusta?
 img_src_small: https://www.tah-heetch.com/wp-content/uploads/2018/11/ketamine-may-be-a-depression-treatment-over-antidepressants-time.jpg
 img_src_medium: https://www.tah-heetch.com/wp-content/uploads/2018/11/ketamine-may-be-a-depression-treatment-over-antidepressants-time.jpg
 date: 2019-02-15
